@@ -1,0 +1,25 @@
+bot : Hi There! I am a banking chatbot. You can begin conversation by typing in a message and pressing enter.
+user : harshaanpranavkoushik
+bot : - Welcome to the Banking portal. [Ask me how I can help you] 
+user : my name is harshaanpranavkoushik
+bot : - Hello! your name has been saved. What is your age?
+user : my age is 20,21,22
+bot : - okay. your age has been stored. Which city do you live in?
+user : chennai, mumbai, kolkata, delhi
+bot : - okay location stored. Welcome to banking portal. 
+user : I want to apply for a loan
+bot : -What type of loan are you looking at ?1)House loan 2)Gold loan 3)Topup loan 3)Vehicle loan 4)Student loan
+user : House Loan
+bot : - To be eligible for a house loan please contact our bank service providers with all existing loan details along with 3 cancelled cheque leaves
+user : Topup Loan
+bot : - To be eligible for a topup loan please contact our bank service providers with all existing loan details along with 3 cancelled cheque leaves
+user : Gold Loan
+bot : - Please approach the bank with the following documents .1)Pan card 2) Aadhar Card 3) Passport Size photo
+user : Vehicle Loan
+bot : - Please approach the bank with the following documets .1)Automobile Invoice 2)Pan card 3) Income Tax returns for the last three years
+user : Student Loan
+bot : - PLease approach the bank with the following documets .1)Acceptance Letter from Institution 2)Pan card 3) Passport size photos
+user : thanks
+bot : - happy to help!
+user : Bye
+bot : - Bye. Nice talking to you

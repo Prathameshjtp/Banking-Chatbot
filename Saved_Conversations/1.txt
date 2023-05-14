@@ -1,0 +1,25 @@
+bot : Hi There! I am a banking chatbot. You can begin conversation by typing in a message and pressing enter.
+user : my name is harshaanpranavkoushik
+bot : - Hello! your name has been saved. What is your age?
+user : my age is 20,21,22
+bot : - okay. your age has been stored. Which city do you live in?
+user : chennai, mumbai, kolkata, delhi
+bot : - okay location stored. Welcome to banking portal. 
+user : Is the bank working today? Does the bank work today ? Are you open today ?
+bot : -The bank is open all days from Monday to Saturday from 9am to 3pm ,with exceptions of 2nd Saturdays.
+user : Give me a list of all Branches, Show me your branches
+bot : - ADAMBAKKAM,ADYAR,ADYAR GANDHI NAGAR,AKKARAI,ALWARPET,ANNANAGAR  VASANATHAM COLONY BRANCH,ANNA NAGAR  WEST,ARCOT ROAD KODAMBAKAM,ARUMBAKKAM,ASCENDAS TARAMANI,AYANAVARAM,AYYAPPANTHANGAL,BESANT NAGAR CHENNAI,CHENNAI  ANNA NAGAR,CHENNAI  ANNA NAGAR 3RD AVENUE,CHENNAI  ASHOK NAGAR,CHENNAI  CREDIT CARD OPERATIONS,CHENNAI  GOPALAPURAM,CHENNAI  ITC CENTRE  ANNA SALAI,CHENNAI  KILPAUK,CHENNAI  MADIPAKKAM,CHENNAI  MYLAPORE,CHENNAI  NANGANALLUR,CHENNAI  NELSON MANICKAM ROAD,CHENNAI  NUNGAMBAKKAM,CHENNAI  PARRYS CORNER,CHENNAI  PATTABIRAM,CHENNAI  PERUNGUDI,CHENNAI  POONAMALLEE,CHENNAI  PORUR,CHENNAI  R A PURAM,CHENNAI  THIRUVANMIYUR,CHENNAI  T NAGAR,CHENNAI  VALSARAVAKKAM,CHENNAI  VELACHERY,CHENNAI  WASHERMENPET,CHENNAI  WEST MAMBALAM,CHINMAYA NAGAR VIRUGAMPAKAM,CHITLAPAKKAM,CIT NAGAR,DLF RAMAPURAM,EAST ABIRAMAPURAM,EGMORE BRANCH,II AVENUE,KARAPAKKAM,K K NAGAR,KORATTUR,KOTTIVAKKAM,KOTTURPURAM,KOYAMBEDU  CHENNAI,MADAMBAKKAM
+user : Which branches have a storage locker ? Do you have storage lockers
+bot : - ADYAR,ADYAR GANDHI NAGAR,AKKARAI,ALWARPET,ANNANAGAR = VASANATHAM COLONY BRANCH,ANNA NAGAR - WEST,ARCOT ROAD KODAMBAKAM,ARUMBAKKAM,ASCENDAS TARAMANI,AYANAVARAM,AYYAPPANTHANGAL,BESANT NAGAR CHENNAI,CHENNAI - ANNA NAGAR,CHENNAI - ANNA NAGAR 3RD AVENUE,CHENNAI - ASHOK NAGAR,CHENNAI these branches have a locker storage facility .
+user : Do you have a cash deposit machine ?
+bot : - Please visit the brach to deposit cash using our e-facility
+user : Are your Servers Running?
+bot : - The banks servers are up and running
+user : Tell me more about your bank
+bot : - Our bank is a British multinational banking and financial services organisation. Our international network comprises around 7,500 offices in over 80 countries and territories in Europe, the Asia-Pacific region, the Americas, the Middle East and Africa.
+user : Do you have the currency conversio facility ? Do you guys convert currency ?
+bot : - All our bank Branches have the forex Exchange facility
+user : thanks
+bot : - happy to help!
+user : Bye
+bot : - Bye. Nice talking to you

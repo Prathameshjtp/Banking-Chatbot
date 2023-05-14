@@ -1,0 +1,13 @@
+bot : Hi There! I am a banking chatbot. You can begin conversation by typing in a message and pressing enter.
+user : my name is harshaanpranavkoushik
+bot : - Hello! your name has been saved. What is your age?
+user : my age is 20,21,22
+bot : - okay. your age has been stored. Which city do you live in?
+user : chennai, mumbai, kolkata, delhi
+bot : - okay location stored. Welcome to banking portal. 
+user : What is CIBIL ? What is a CIBIL score ?
+bot : -Banks, as part of their due diligence process, gauge the creditworthiness of individuals based on credit scores. The information listed on your credit report includes several variables that CIBIL uses to set your credit score. CIBIL score, therefore, reflects the extent of the probability of a default. An individual's credit history is submitted to CIBIL by banks and financial institutions on a monthly basis.
+user : ok, thanks
+bot : - happy to help!
+user : Bye
+bot : - Bye. Nice talking to you
